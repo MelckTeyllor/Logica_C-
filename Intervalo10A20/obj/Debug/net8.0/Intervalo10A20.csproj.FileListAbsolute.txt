@@ -1,0 +1,15 @@
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\bin\Debug\net8.0\Intervalo10A20.exe
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\bin\Debug\net8.0\Intervalo10A20.deps.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\bin\Debug\net8.0\Intervalo10A20.runtimeconfig.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\bin\Debug\net8.0\Intervalo10A20.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\bin\Debug\net8.0\Intervalo10A20.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.AssemblyInfoInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.AssemblyInfo.cs
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.csproj.CoreCompileInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.sourcelink.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\refint\Intervalo10A20.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\Intervalo10A20.genruntimeconfig.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Intervalo10A20\obj\Debug\net8.0\ref\Intervalo10A20.dll

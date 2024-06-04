@@ -1,0 +1,15 @@
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.AssemblyInfoInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.AssemblyInfo.cs
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.sourcelink.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\bin\Debug\net8.0\Operacoes.exe
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\bin\Debug\net8.0\Operacoes.deps.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\bin\Debug\net8.0\Operacoes.runtimeconfig.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\bin\Debug\net8.0\Operacoes.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\bin\Debug\net8.0\Operacoes.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\refint\Operacoes.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\Operacoes.genruntimeconfig.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\Operacoes\obj\Debug\net8.0\ref\Operacoes.dll

@@ -1,0 +1,15 @@
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\bin\Debug\net8.0\MaiorQue100.exe
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\bin\Debug\net8.0\MaiorQue100.deps.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\bin\Debug\net8.0\MaiorQue100.runtimeconfig.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\bin\Debug\net8.0\MaiorQue100.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\bin\Debug\net8.0\MaiorQue100.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.AssemblyInfoInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.AssemblyInfo.cs
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.csproj.CoreCompileInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.sourcelink.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\refint\MaiorQue100.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\MaiorQue100.genruntimeconfig.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MaiorQue100\obj\Debug\net8.0\ref\MaiorQue100.dll
