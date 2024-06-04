@@ -1,0 +1,14 @@
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\bin\Debug\net8.0\MediaAluno.exe
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\bin\Debug\net8.0\MediaAluno.deps.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\bin\Debug\net8.0\MediaAluno.runtimeconfig.json
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\bin\Debug\net8.0\MediaAluno.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\bin\Debug\net8.0\MediaAluno.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\MediaAluno.AssemblyInfoInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\MediaAluno.AssemblyInfo.cs
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\MediaAluno.csproj.CoreCompileInputs.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\MediaAluno.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\refint\MediaAluno.dll
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\MediaAluno.pdb
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\MediaAluno.genruntimeconfig.cache
+C:\Users\melcksedeck.trsousa\Desktop\ExerciciosC#\MediaAluno\obj\Debug\net8.0\ref\MediaAluno.dll
