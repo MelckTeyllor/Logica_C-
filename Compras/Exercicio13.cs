@@ -17,14 +17,14 @@ class Exercicio13 {
         double valorCompra = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Digite a categoria do cliente [1]Comum - [2]Associado - [3]Vip: ");
         int categoria = Convert.ToInt32(Console.ReadLine());
-        double valorFinalCompra;
+        double valorFinalCompra = 0;
         if(categoria == 1){
             Console.WriteLine("O valor final da compra é de : R$" + valorCompra);
         }else if(categoria == 2){
-            valorFinalCompra = valorCompra * ((10/100 * valorCompra));
+            valorFinalCompra = valorCompra - ((0.10 * valorCompra));
             Console.WriteLine("O valor final da compra é de : R$" + valorFinalCompra);
         }else if(categoria == 3){
-            valorFinalCompra = valorCompra * ((20/100 * valorCompra));
+            valorFinalCompra = valorCompra - ((0.20 * valorCompra));
             Console.WriteLine("O valor final da compra é de : R$" + valorFinalCompra);
         }else {
             Console.WriteLine("Categoria Inválida");

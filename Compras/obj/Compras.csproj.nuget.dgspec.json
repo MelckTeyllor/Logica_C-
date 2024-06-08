@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\melcksedeck.trsousa\\Desktop\\ExerciciosC#\\Compras\\Compras.csproj": {}
+    "C:\\Users\\Melcksedeck\\OneDrive\\Área de Trabalho\\PROA\\Logica_CSHARPE\\Compras\\Compras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\melcksedeck.trsousa\\Desktop\\ExerciciosC#\\Compras\\Compras.csproj": {
+    "C:\\Users\\Melcksedeck\\OneDrive\\Área de Trabalho\\PROA\\Logica_CSHARPE\\Compras\\Compras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\melcksedeck.trsousa\\Desktop\\ExerciciosC#\\Compras\\Compras.csproj",
+        "projectUniqueName": "C:\\Users\\Melcksedeck\\OneDrive\\Área de Trabalho\\PROA\\Logica_CSHARPE\\Compras\\Compras.csproj",
         "projectName": "Compras",
-        "projectPath": "C:\\Users\\melcksedeck.trsousa\\Desktop\\ExerciciosC#\\Compras\\Compras.csproj",
-        "packagesPath": "C:\\Users\\melcksedeck.trsousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\melcksedeck.trsousa\\Desktop\\ExerciciosC#\\Compras\\obj\\",
+        "projectPath": "C:\\Users\\Melcksedeck\\OneDrive\\Área de Trabalho\\PROA\\Logica_CSHARPE\\Compras\\Compras.csproj",
+        "packagesPath": "C:\\Users\\Melcksedeck\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Melcksedeck\\OneDrive\\Área de Trabalho\\PROA\\Logica_CSHARPE\\Compras\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\melcksedeck.trsousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Melcksedeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

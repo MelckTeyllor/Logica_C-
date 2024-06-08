@@ -1,0 +1,14 @@
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.exe
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.deps.json
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.runtimeconfig.json
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\bin\Debug\net8.0\ParOuImpar.pdb
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\refint\ParOuImpar.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.pdb
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\ParOuImpar\obj\Debug\net8.0\ref\ParOuImpar.dll

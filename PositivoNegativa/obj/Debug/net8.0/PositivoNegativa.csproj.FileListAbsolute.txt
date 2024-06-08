@@ -1,0 +1,15 @@
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.AssemblyInfoInputs.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.AssemblyInfo.cs
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.csproj.CoreCompileInputs.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.sourcelink.json
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\bin\Debug\net8.0\PositivoNegativa.exe
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\bin\Debug\net8.0\PositivoNegativa.deps.json
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\bin\Debug\net8.0\PositivoNegativa.runtimeconfig.json
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\bin\Debug\net8.0\PositivoNegativa.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\bin\Debug\net8.0\PositivoNegativa.pdb
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\refint\PositivoNegativa.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.pdb
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\PositivoNegativa.genruntimeconfig.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Logica_CSHARPE\PositivoNegativa\obj\Debug\net8.0\ref\PositivoNegativa.dll

@@ -1,0 +1,14 @@
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\NumeroPositivoOuNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\NumeroPositivoOuNegativo.AssemblyInfoInputs.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\NumeroPositivoOuNegativo.AssemblyInfo.cs
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\NumeroPositivoOuNegativo.csproj.CoreCompileInputs.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\bin\Debug\net8.0\NumeroPositivoOuNegativo.exe
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\bin\Debug\net8.0\NumeroPositivoOuNegativo.deps.json
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\bin\Debug\net8.0\NumeroPositivoOuNegativo.runtimeconfig.json
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\bin\Debug\net8.0\NumeroPositivoOuNegativo.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\bin\Debug\net8.0\NumeroPositivoOuNegativo.pdb
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\NumeroPositivoOuNegativo.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\refint\NumeroPositivoOuNegativo.dll
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\NumeroPositivoOuNegativo.pdb
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\NumeroPositivoOuNegativo.genruntimeconfig.cache
+C:\Users\Melcksedeck\OneDrive\Área de Trabalho\PROA\Lógica_Em_C#\NumeroPositivoOuNegativo\obj\Debug\net8.0\ref\NumeroPositivoOuNegativo.dll
